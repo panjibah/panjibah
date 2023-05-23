@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @panjibah
-- 👀 I’m interested in Data Engineer
+- 👀 I’m interested in Data Engineer and Software Engineering
 - 🌱 I’m currently learning Django 
 - 💞️ I’m looking to collaborate on Data Engineer Project
 - 📫 How to reach me https://www.linkedin.com/in/panji-bahtera-setia-719830131/
